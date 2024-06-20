@@ -10,3 +10,30 @@ body {
 
   background-color: hsl(212, 45%, 89%);
 }
+
+h1 {
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+}
+
+main.card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+
+  max-width: 320px;
+  margin: auto;
+  margin-top: 150px;
+
+  padding: 15px;
+
+  text-align: center;
+}
+
+main img {
+  border-radius: 10px;
+
+  width: 100%;
+}
