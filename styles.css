@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Outfit";
+  src: url(fonts/Outfit-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: "Outfit";
+  font-size: 15px;
+  font-weight: 400;
+
+  background-color: hsl(212, 45%, 89%);
+}
